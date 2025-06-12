@@ -59,9 +59,9 @@ body {
 }
 
 .answer > p {
-    font-size: 48px;
+    font-size: 36px;
     font-family: sans-serif;
     font-weight: bold;
-    color: #FF6EB4;
+    color: #fdfdfd;
     text-shadow: 1px 1px #000;
 }
